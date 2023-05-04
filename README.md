@@ -39,4 +39,4 @@ Version: 1.01
 > Email: rajvindersingh.exe@gmail.com <br>
 
 
-![APP UI Screenshots](https://user-images.githubusercontent.com/95021955/235283804-d3cc6df4-c9e2-49cc-ad83-90368dbadff2.png)
+
